@@ -1,0 +1,10 @@
+.historybox p{ line-height:27px; font-size: 14px; color:#575656; margin-top:5px;}
+.historymain{ padding-top:80px;}
+.historymain .pic{ float:left; position:relative; padding-bottom:50px;}
+.historymain .pic .line{  position:absolute; width:2px; height:100%; top:0; right:-10px; background:#dedede; z-index: 1}
+.historymain .storybox{ float:right; width:280px; font-size:14px;}
+.historymain .storybox .time, .location{position:relative; height:30px; line-height:30px; color:#f99d32; z-index:10;}
+.story{max-height:102px; overflow: hidden;}
+.location{width:100%; position:absolute; margin-left:475px;}
+.historymain .storybox .time div{width:22px; height:30px; background:url("../images/servicetime.png") no-repeat center center; position:absolute; top:0; left:-34px;}
+.historymain .location div{width:12px; height:12px; background:url("../images/servicelocation.png") no-repeat ; position:absolute; top:8px; left:-29px;}

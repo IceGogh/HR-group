@@ -1,0 +1,7 @@
+.main-right .logoarea{ width:780px; padding:20px 0 ;}
+.main-right .logoarea li{ display:block;  float:left; width:177px; padding-right:15px; margin-bottom:10px; }
+.margin-right .logopic{ width:100%; font-size:0; overflow: hidden; }
+.margin-right .logopic img{ width:100%; float:left; }
+.logoname{ height:30px; line-height:30px; }
+.logoname:hover{ color:#f99d32 }
+.download{  height:32px; line-height:32px; color:#f99d32; font-size:14px; }

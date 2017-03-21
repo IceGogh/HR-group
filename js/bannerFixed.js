@@ -1,0 +1,11 @@
+$(function(){
+    $(window).on('scroll',function(){
+        if($(document).scrollTop()>230){
+            $('.header').css({marginTop:-($(document).scrollTop()-230)})
+            $('.banner').css({marginTop:-($(document).scrollTop()-230)})
+        }else{
+            $('.header').css({marginTop:'0'})
+            $('.banner').css({marginTop:'0'})
+        }
+    })
+})

@@ -1,0 +1,7 @@
+.company{width:775px;  padding:25px 0;}
+.company li{ display: block;  margin:0 19px 25px 0; float:left;}
+.company .pic{ display:block; border:1px solid #f99d32; width:237px; height:147px; font-size:0; overflow:hidden;}
+.company .pic img{width:100%; float:left; }
+.company li>div{ color:#fff; height:55px; line-height:55px; margin:0; width:239px; background:#f99d32;}
+.company li>div a{ padding-left:13px; font-size:18px;}
+.company li>div span{ float:right; padding-right:13px; font-size:14px;}

@@ -1,0 +1,27 @@
+.banner{ width:100%; height:320px; font-size:0; overflow:hidden; margin-top:0px; background-color:#f7f5f4;}
+.banner img{ float:left;  }
+.main-left{ float:left; width:170px; }
+.main-right{ float:right;}
+.about{ width:100%;}
+.main-left li a { display:block; height:37px;  width:140px; font-size:14px; padding-left:30px; position:relative;}
+.main-left .about>li { border-bottom:1px solid #dbd4cd; line-height:35px;  }
+.main-left .about>li>a span{ position:absolute; width:5px; height:5px; top:15px; left:15px; background:#6d5a54;}
+.main-right {width:755px;}
+.main-right .title span{ line-height:50px; font-size:14px; float:right; color:#000; padding-top:14px;}
+.main-right .title span a:hover{  color:#f99d32;}
+.newslist{width:100%;}
+.newslist li{width:100%; height:104px; border-bottom:1px dotted #dbd4cd; padding-top:20px;}
+.calendar{ width:60px; height:61px; float:left;}
+.calendar div{ width:100%; text-align: center; background:#eae6e2;}
+.date{ height:42px; line-height:42px; margin-bottom:1px; font-size:30px;}
+.yr{ height:18px; line-height:18px; font-size:10px;}
+.news{ float:right; width:670px;}
+.news>a{ font-size:14px; font-weight:bold; }
+.news>a:hover{color:#f99d32;}
+.news>p{ line-height:28px;  width:100%; overflow: hidden; margin:10px 0 0;}
+.news>p a{ background:url("../images/more.gif") no-repeat center center; position:static; display:inline-block;}
+.newspage{ height:35px; width:100%; margin-top:45px; font-weight:bold; font-size:14px; color:#7b7a7a;}
+.newspage i{font-style: normal; color:#f26522;}
+.pagenow{ margin:0 10px;}
+.newsSelect{cursor:pointer; display:inline-block; background:#eae6e2; width:82px; height:33px; border:1px #fff solid; text-align: center; line-height:33px;}
+.newspage select{margin-left:20px;}
